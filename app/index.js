@@ -38,9 +38,6 @@ const Home = () => {
               }
             }}
             />
-            <Welcome
-            searchTerm={searchTerm}
-            />
             <Popularjobs/>
             <Nearbyjobs/>
         </View>

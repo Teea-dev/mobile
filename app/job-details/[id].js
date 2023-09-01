@@ -58,6 +58,7 @@ const JobDetails = () => {
             points={data[0].job_highlights?.Responsibilities ?? ["N/A"]}
           />
         );
+
         break;
 
       default:
